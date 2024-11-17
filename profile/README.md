@@ -57,8 +57,6 @@ We are an **open community** and welcome contributions from developers, users, a
 1. **Contribute to the code**: Submit a [Pull Request](https://github.com/Neve-Project/neve/pulls) to propose improvements or new functionalities.
 1. **Collaborate on Nevepkgs**: Develop new packages or improve existing ones to expand the distribution’s capabilities.
 
-______________________________________________________________________
-
 ## 📜 **License**
 
 All projects within the **Neve Project** organization are **open source** and released under the following license:
@@ -66,8 +64,6 @@ All projects within the **Neve Project** organization are **open source** and re
 - **GNU GPL v2** (e.g., for the main **Neve** project and **Nevepkgs**)
 
 Each repository includes a `LICENSE` file with specific details about the applicable license.
-
-______________________________________________________________________
 
 ## ⭐ **Support Us**
 
